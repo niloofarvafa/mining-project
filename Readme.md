@@ -8,6 +8,7 @@
 #the code is mining a block 
 
 
-```python==3.7.8
+
+python==3.7.8
 
 #import sha256 from hashlib
