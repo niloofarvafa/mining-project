@@ -1,7 +1,7 @@
 # mine a block
-> Mining a block that contains block number, data (as string), and nonce.
+#Mining a block that contains block number, data (as string), and nonce.
 
-> Hash block must start with 4 zeros at the beginning.
+#Hash block must start with 4 zeros at the beginning.
 
 
 
