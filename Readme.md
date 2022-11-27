@@ -1,17 +1,14 @@
-
-**Assingnment**
-
+ # Assignment1
 1.  generate a pair of private/public keys based on the RSA algorithm.
 2.  Sign a message with a given private key(hex)
 3.  Signature validator
 4.  Minner
 
-**Installation**
+# Installation
 
 pip install cryptography
 ```
-
-**Assingnment2**
+# Assingnment2
 
 #mine a block
 #Mining a block that contains block number, data (as string), and nonce.
